@@ -1,5 +1,3 @@
-README.md
-
 1. Use Eclipse
 2. Import Project employees
 3. fileName = "D:\\Sirma\\employees\\EmployeesWorkedTogether.csv"; see image 0.PNG
